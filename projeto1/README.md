@@ -1,4 +1,4 @@
-![Exemplo de Imagem](projeto1/print_projeto1.png)
+![Imagem do projeto](projeto1/print_projeto1.png)
 
 ## Profile Card UI Design
 
