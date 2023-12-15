@@ -1,4 +1,4 @@
-![Imagem do projeto](projeto1/print_projeto1.png)
+![Imagem do projeto](https://github.com/holyvieri/learning_html_css/blob/main/projeto1/print_projeto1.png)
 
 ## Profile Card UI Design
 
