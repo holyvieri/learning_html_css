@@ -1,0 +1,16 @@
+# Ignore arquivos de sistema
+.DS_Store
+
+# Ignore arquivos de backup
+*~
+
+# Ignore diretórios de node_modules
+node_modules/
+
+# Ignore arquivos temporários
+*.tmp
+
+# Ignore arquivos de configuração
+*.log
+*.conf
+*.cfg
