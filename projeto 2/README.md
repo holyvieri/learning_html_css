@@ -1,3 +1,6 @@
+![Imagem do projeto](https://github.com/holyvieri/learning_html_css/blob/main/projeto%202/print_projeto2_front.png)
+![Imagem do projeto](https://github.com/holyvieri/learning_html_css/blob/main/projeto%202/print_projeto2_back.png)
+
 ## Flipping Card UI Design
 
 Este projeto, parte do repositório "learning_html_css", consiste em um simples design animado de cartão de crédito utilizando HTML e CSS.
